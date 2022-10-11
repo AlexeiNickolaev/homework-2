@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Git обучение\\C# Домашнее задание\\Семинар2_Домашнее задание\\001_Weekend\\001_Weekend.csproj": {}
+  },
+  "projects": {
+    "D:\\Git обучение\\C# Домашнее задание\\Семинар2_Домашнее задание\\001_Weekend\\001_Weekend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git обучение\\C# Домашнее задание\\Семинар2_Домашнее задание\\001_Weekend\\001_Weekend.csproj",
+        "projectName": "001_Weekend",
+        "projectPath": "D:\\Git обучение\\C# Домашнее задание\\Семинар2_Домашнее задание\\001_Weekend\\001_Weekend.csproj",
+        "packagesPath": "C:\\Users\\Alexei\\.nuget\\packages\\",
+        "outputPath": "D:\\Git обучение\\C# Домашнее задание\\Семинар2_Домашнее задание\\001_Weekend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alexei\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

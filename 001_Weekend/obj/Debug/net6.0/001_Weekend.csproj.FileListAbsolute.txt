@@ -1,0 +1,15 @@
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\bin\Debug\net6.0\001_Weekend.exe
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\bin\Debug\net6.0\001_Weekend.deps.json
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\bin\Debug\net6.0\001_Weekend.runtimeconfig.json
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\bin\Debug\net6.0\001_Weekend.dll
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\bin\Debug\net6.0\001_Weekend.pdb
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\001_Weekend.csproj.AssemblyReference.cache
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\001_Weekend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\001_Weekend.AssemblyInfoInputs.cache
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\001_Weekend.AssemblyInfo.cs
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\001_Weekend.csproj.CoreCompileInputs.cache
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\001_Weekend.dll
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\refint\001_Weekend.dll
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\001_Weekend.pdb
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\001_Weekend.genruntimeconfig.cache
+D:\Git обучение\C# Домашнее задание\Семинар2_Домашнее задание\001_Weekend\obj\Debug\net6.0\ref\001_Weekend.dll
